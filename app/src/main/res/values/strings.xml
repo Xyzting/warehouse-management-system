@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WMS Mobile</string>
+    <string name="app_tagline">Warehouse Management System</string>
+
+    <!-- Login screen -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="error_empty_credentials">Username dan password harus diisi</string>
+    <string name="error_invalid_credentials">Username atau password salah</string>
+    <string name="login_success">Login berhasil sebagai %1$s</string>
+    <string name="login_hint_demo">Demo: operator/123, supervisor/123, admin/123</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Selamat datang, %1$s (%2$s)</string>
+    <string name="dashboard_welcome_placeholder">Selamat datang</string>
+    <string name="dashboard_subtitle">Pilih modul untuk mulai</string>
+    <string name="menu_master_data">Master Data</string>
+    <string name="menu_inbound">Goods Receipt</string>
+    <string name="menu_outbound">Goods Issue</string>
+    <string name="menu_inventory">Stock</string>
+    <string name="menu_reporting">Reporting</string>
+    <string name="btn_logout">Logout</string>
+    <string name="module_placeholder">Modul %1$s — belum diimplementasi</string>
+</resources>
